@@ -1,4 +1,4 @@
-package Level02Java;
+package MiniPorjects;
 
 import java.util.Scanner;
 

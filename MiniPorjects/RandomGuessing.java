@@ -1,4 +1,4 @@
-package Level02Java;
+package MiniPorjects;
 import java.util.Scanner;
 import java.util.Random;
 public class RandomGuessing {
